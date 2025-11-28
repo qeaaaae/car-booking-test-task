@@ -8,7 +8,7 @@ cd car-booking-test-task
 composer install
 
 # Настроить окружение
-cp .env.example .env
+cp (windows - copy) .env.example .env
 php artisan key:generate
 
 # Настроить БД в .env
