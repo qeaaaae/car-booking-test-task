@@ -1,9 +1,7 @@
 # Car Booking - Тестовое задание
 
-## Скачивание
-
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/qeaaaae/car-booking-test-task.git
 cd car-booking-test-task
 
 # Установить зависимости
