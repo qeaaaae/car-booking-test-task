@@ -1,16 +1,14 @@
 # Car Booking - Тестовое задание
 
-## Скачивание
-
 ```bash
-git clone <url-репозитория>
+git clone https://github.com/qeaaaae/car-booking-test-task.git
 cd car-booking-test-task
 
 # Установить зависимости
 composer install
 
 # Настроить окружение
-cp .env.example .env
+cp (windows - copy) .env.example .env
 php artisan key:generate
 
 # Настроить БД в .env
