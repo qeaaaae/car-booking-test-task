@@ -19,6 +19,7 @@ DB_PASSWORD=
 # Запустить миграции и тестовые данные
 php artisan migrate --seed
 php artisan passport:client --personal
+php artisan passport:keys
 
 # Запустить сервер
 php artisan serve
